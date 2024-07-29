@@ -1,8 +1,8 @@
 # About me
-    I’m an undergraduate at Shanghai Jiao Tong University.
-    My research interests mainly lie in computer vision and deep generative models. 
-    I am now focusing on image synthesis and 3D HOI. 
-    My goal is to pursue a PhD position in AI in 2026 Fall.
+-I’m an undergraduate at Shanghai Jiao Tong University.
+-My research interests mainly lie in computer vision and deep generative models. 
+-I am now focusing on image synthesis and 3D HOI. 
+-My goal is to pursue a PhD position in AI in 2026 Fall.
 
 
 
